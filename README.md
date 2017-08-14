@@ -13,6 +13,14 @@ This is a simple python script that is used to start ETH mining cards that are r
   - config for AMD/ATI Cards
 
 
+
+# Donations
+    - Bitcoin: 1NQKvmWCeo5zf8pCNRgHrFiPGwzeFjdonM 
+    - LiteCoin: LKoWe8A6wTTnPJVhy6pLqYGLRrAXmEmy3u
+    - Ethereum: 0xc418047F54fb06B731eA01AE10491D19510E48Dc
+
+
+
 License
 ----
 
