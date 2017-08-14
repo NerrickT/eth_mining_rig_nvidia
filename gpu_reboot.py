@@ -28,5 +28,5 @@ ft = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d_%H:%M:%S')
 
 time.sleep(10)
 os.chdir("/usr/local/claymore9.7")
-os.system("su nerrick -c 'tmux new -s ClayMore ./mine.sh'")
+os.system("su <USERNAME GOES HERE> -c 'tmux new -s ClayMore ./mine.sh'")
 
