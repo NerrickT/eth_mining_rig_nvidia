@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 """
 Reference sites:
     https://stackoverflow.com/questions/431684/how-do-i-cd-in-python
@@ -26,7 +28,8 @@ ft = datetime.datetime.fromtimestamp(ts).strftime('%Y-%m-%d_%H:%M:%S')
 
 
 
-time.sleep(10)
+time.sleep(1)
 os.chdir("/usr/local/claymore9.7")
 os.system("tmux new -s ClayMore ./mine.sh")
 
+os.system("touch test_file" + ft + ".txt")
